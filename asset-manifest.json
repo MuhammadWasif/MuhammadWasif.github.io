@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f48d1033.chunk.css",
+    "main.js": "/static/js/main.00754407.chunk.js",
+    "main.js.map": "/static/js/main.00754407.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.f01c5455.chunk.css": "/static/css/2.f01c5455.chunk.css",
+    "static/js/2.6e8e10bc.chunk.js": "/static/js/2.6e8e10bc.chunk.js",
+    "static/js/2.6e8e10bc.chunk.js.map": "/static/js/2.6e8e10bc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4294b9236be5d6ff233605e626f5fafe.js": "/precache-manifest.4294b9236be5d6ff233605e626f5fafe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f01c5455.chunk.css.map": "/static/css/2.f01c5455.chunk.css.map",
+    "static/css/main.f48d1033.chunk.css.map": "/static/css/main.f48d1033.chunk.css.map",
+    "static/js/2.6e8e10bc.chunk.js.LICENSE.txt": "/static/js/2.6e8e10bc.chunk.js.LICENSE.txt",
+    "static/media/codein-logo.webp": "/static/media/codein-logo.47a7a717.webp",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.2836f5eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.f01c5455.chunk.css",
+    "static/js/2.6e8e10bc.chunk.js",
+    "static/css/main.f48d1033.chunk.css",
+    "static/js/main.00754407.chunk.js"
+  ]
+}
